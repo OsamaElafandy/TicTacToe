@@ -1,25 +1,19 @@
-# tictactoe
+# TicTacToe
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.   
+This project is a TicTacToe Flutter application.
+  
 
 ## Photos 
 
-![alt text](https://i.ibb.co/C5WwFX9/x.jpg)
+<p align="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/activegym-1c716.appspot.com/o/TicTacToe%2Fhome.png?alt=media&token=49cdd700-5065-4897-b97a-1b08d61f4a28"  height="60%" width="40%" >
+<img src="https://firebasestorage.googleapis.com/v0/b/activegym-1c716.appspot.com/o/TicTacToe%2Fwin.png?alt=media&token=3fe89ca8-5590-4eef-af27-772edab387dc"  height="60%" width="40%" >
+</p>
 
-![alt text](https://i.ibb.co/4tqTg8R/o.jpg)
 
 
 
